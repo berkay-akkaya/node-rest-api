@@ -10,7 +10,7 @@ Amazon AWS endpoint of API: http://ec2-54-82-249-137.compute-1.amazonaws.com:300
 
 Send Post request as in the examples below:
 
-**Success Response:
+# Success Response:
 
 {
 "startDate": "2020-01-26",
@@ -19,7 +19,7 @@ Send Post request as in the examples below:
 "maxCount": 3000
 }
 
-**Invalid Params:
+# Invalid Params:
 
 {
 "startDate": "test",
@@ -28,7 +28,7 @@ Send Post request as in the examples below:
 "maxCount": 3000
 }
 
-**No records
+# No records
 
 {
 "startDate": "2016-01-26",
